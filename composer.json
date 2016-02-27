@@ -2,7 +2,7 @@
   "name": "webmaza75/lib",
   "description": "MultiException Library",
   "minimum-stability": "dev",
-  "version": "1.0.0",
+  "version": "dev-master",
   "type": "library",
   "require":{
     "php":">=5.3.0"
